@@ -39,7 +39,7 @@ npm install
 
 1. Clone or Fork the Repository
 ```bash
-git clone https://github.com/ali-husnain09/zapstream-bot.git
+git clone https://github.com/ali-husnain09/Zapstream-bot.git
 cd zapstream-bot
 ```
 2. Install Dependencies
@@ -52,6 +52,7 @@ Run the Bot Locally (First Time Only)
 ```bash
 node index.js
 ```
+
 ## 💡 How to Use
 Open WhatsApp
 
@@ -62,11 +63,11 @@ Open WhatsApp
 ## 📢 Bot Commands
 The bot supports the following commands:
 
-- ``` /start```	 ``` /start```	                                   Welcomes the user and gives instructions
-- /yt	/yt      https://youtube.com/watch?v=abc123	                 Downloads and sends a YouTube video
-- ``` /fb```	``` /fb```   https://facebook.com/video123	         Downloads and sends a Facebook video
-- ``` /insta```	``` /insta```   https://instagram.com/reel/xyz	   Downloads and sends an Instagram reel/video
+- ```/start```	 ```/start```	                                   Welcomes the user and gives instructions
+- ```/yt```	```/yt```      https://youtube.com/watch?v=abc123	                 Downloads and sends a YouTube video
+- ```/fb```	```/fb```   https://facebook.com/video123	         Downloads and sends a Facebook video
+- ```/insta```	```/insta```   https://instagram.com/reel/xyz	   Downloads and sends an Instagram reel/video
 
 ## 📬 Contact
-Made with 💙 by Ali Husnain
-📧 tristinhall7878@gmail.com
+- Made with 💙 by Ali Husnain
+- 📧 tristinhall7878@gmail.com
