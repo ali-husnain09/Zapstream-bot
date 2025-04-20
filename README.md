@@ -33,3 +33,17 @@ The following NPM packages are required and will be auto-installed:
 
 ```bash
 npm install
+
+## 🛠️ Setup Instructions
+
+1. Clone or Fork the Repository
+
+```bash
+git clone https://github.com/ali-husnain09/zapstream-bot.git
+cd zapstream-bot
+
+
+Run the Bot Locally (First Time Only)
+
+```bash
+node index.js
