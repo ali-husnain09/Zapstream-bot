@@ -33,17 +33,38 @@ The following NPM packages are required and will be auto-installed:
 
 ```bash
 npm install
+```
 
 ## 🛠️ Setup Instructions
 
 1. Clone or Fork the Repository
-
 ```bash
 git clone https://github.com/ali-husnain09/zapstream-bot.git
 cd zapstream-bot
-
+```
+2. Install Dependencies
+```bash
+npm install
+```
 
 Run the Bot Locally (First Time Only)
 
 ```bash
 node index.js
+```
+## 💡 How to Use
+Open WhatsApp
+
+- Send the bot any valid YouTube, Facebook, or Instagram video link
+- Bot responds in chat with the video directly
+- After 5 minutes, the video file is deleted to save space
+
+## 📢 Bot Commands
+The bot supports the following commands:
+
+
+Command	Usage Example	Description
+``/start```	 ```/start```	                     Welcomes the user and gives instructions
+/yt	/yt https://youtube.com/watch?v=abc123	   Downloads and sends a YouTube video
+/fb	/fb https://facebook.com/video123	         Downloads and sends a Facebook video
+/insta	/insta https://instagram.com/reel/xyz	 Downloads and sends an Instagram reel/video
