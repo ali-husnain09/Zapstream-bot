@@ -64,7 +64,7 @@ The bot supports the following commands:
 
 
 Command	Usage Example	Description
-``/start	 ```/start	                     - Welcomes the user and gives instructions
-/yt	/yt https://youtube.com/watch?v=abc123	   - Downloads and sends a YouTube video
-/fb	/fb https://facebook.com/video123	         - Downloads and sends a Facebook video
-/insta	/insta https://instagram.com/reel/xyz	 - Downloads and sends an Instagram reel/video
+- ``/start	 ```bash /start```	                          Welcomes the user and gives instructions
+/yt	/yt https://youtube.com/watch?v=abc123	    Downloads and sends a YouTube video
+/fb	/fb https://facebook.com/video123	          Downloads and sends a Facebook video
+/insta	/insta https://instagram.com/reel/xyz	  Downloads and sends an Instagram reel/video
